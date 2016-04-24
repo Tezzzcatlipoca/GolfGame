@@ -1,0 +1,6 @@
+Title: Shiny Golf Tournament
+Author: REFA
+AuthorUrl: https://github.com/Tezzzcatlipoca
+License: GPL-3
+DisplayMode: Showcase
+Type: Shiny
